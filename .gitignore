@@ -1,0 +1,18 @@
+# Arquivos de ambiente e segredos
+.env
+
+# Checkpoints do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Configurações de IDE
+.vscode/
+.idea/
